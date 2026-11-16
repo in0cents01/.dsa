@@ -38,7 +38,7 @@ int main() {
   struct node *tail  ;   
   tail  = atEmpty(45) ;  
   tail  = atBegin(tail  , 10) ;
-  tail  = atBegin(tail , 50) ; 
+  tail  = atBegin(tail , 50) ;
   print(tail) ; 
   return  0 ; 
 }
